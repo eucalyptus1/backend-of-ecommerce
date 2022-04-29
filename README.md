@@ -17,6 +17,6 @@ Then it can be viewed, edited and delted in insomnia through GET, POST, PUT and 
 James
 
 ## Website
-https://eucalyptus1.github.io/backend-of-ecommerce
+https://github.com/eucalyptus1/backend-of-ecommerce
 
-![demo](.\assets\Ecommerce backend challenge demo.webm)
+![demo](./assets/Ecommerce backend challenge demo.webm)

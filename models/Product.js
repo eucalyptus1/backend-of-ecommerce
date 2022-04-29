@@ -33,7 +33,7 @@ Product.init(
         allowNull: false,
 
         validate: {
-          isDEcimal: true
+          isDecimal: true
         }
     },
 
@@ -42,10 +42,10 @@ Product.init(
 
         allowNull: false,
 
-        // default value 10
+        defaultValue: 10,
 
         validate: {
-          isInt: true
+          isNumeric: true
         }
 
     },

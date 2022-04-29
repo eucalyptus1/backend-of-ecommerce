@@ -19,4 +19,5 @@ James
 ## Website
 https://github.com/eucalyptus1/backend-of-ecommerce
 
-![demo](./assets/demo.webm)
+## Demo Video
+https://drive.google.com/file/d/1BVGkWmQ_8Ekh_6HSoRCidwaAom8Y7eqQ/view?usp=sharing
